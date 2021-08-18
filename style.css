@@ -1,0 +1,30 @@
+body{
+    background-color:yellowgreen;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    height: 200px;
+    width: 200px;
+    borde: 2px solid grey;
+    outline: none;
+}
+button:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+#colr1{
+    background-color: White;
+}
+#colr2{
+    background-color: red;
+}
+#colr3{
+    background-color:black;
+}
+#colr4{
+    background-color:khaki;
+}
