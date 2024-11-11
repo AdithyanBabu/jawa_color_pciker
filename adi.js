@@ -1,18 +1,21 @@
+
+const htmlBody = document.getElementById('bike');
+
 function white()
 {
-    document.body.style.backgroundColor="white";
+    htmlBody.style.backgroundColor="white";
 }
 function red()
 {
-    document.body.style.backgroundColor="red";
+    htmlBody.style.backgroundColor="red";
 }
 function cyan()
 {
-    document.body.style.backgroundColor="cyan";
+    htmlBody.style.backgroundColor="cyan";
 }
 function khaki()
 {
-    document.body.style.backgroundColor="khaki";
+    htmlBody.style.backgroundColor="khaki";
 }
 function jawaLog()
 {
